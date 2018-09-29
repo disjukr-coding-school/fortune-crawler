@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es5",
+        "lib": ["dom", "es2018"],
+        "moduleResolution": "node",
+        "strict": true,
+        "noUnusedLocals": true
+    },
+    "exclude": [
+        "node_modules",
+        "build"
+    ]
+}
